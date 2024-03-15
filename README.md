@@ -3,7 +3,21 @@ Tiffany
 
     Likes red pandas
     Dislike bald cats
+Adam F.
+Likes: Cars
+Dislikes: Slow walkers
 
+Kirstyn
+
+Likes: Food
+
+Hates: Cooking
+
+Caleb
+
+Broadway
+
+Public Speaking
 Adam M.
 Likes: Being a hater
 Dislikes: Restricted APIs
