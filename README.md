@@ -1,4 +1,8 @@
 # Write 3 lines below: name, something you like, something you dislike
+Tiffany
+
+    Likes red pandas
+    Dislike bald cats
 Adam F.
 Likes: Cars
 Dislikes: Slow walkers
