@@ -1,5 +1,9 @@
 # Write 3 lines below: name, something you like, something you dislike
-Tiffany
+Austin
+
+Likes: AEIOU
+
+Dislikes: sometimes YTiffany
 
     Likes red pandas
     Dislike bald cats
