@@ -1,6 +1,6 @@
 # Write 3 lines below: name, something you like, something you dislike
 Austin
 
-Likes: Paramore
+Likes: AEIOU
 
-Dislikes: People who dont like Paramore
+Dislikes: sometimes Y
